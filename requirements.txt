@@ -1,8 +1,9 @@
 streamlit
 sentence-transformers
-qdrant-client[fastembed]
+qdrant-client
 groq
 python-dotenv
 pypdf
 langchain
 langchain-community
+langchain-text-splitters
