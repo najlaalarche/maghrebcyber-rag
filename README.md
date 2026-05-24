@@ -163,4 +163,4 @@ Ce projet est sous licence MIT — voir le fichier [LICENSE](LICENSE) pour plus 
 
 ---
 
-*Projet réalisé dans le cadre du TP2 RAG — 2025*
+*Projet réalisé dans le cadre du TP2 RAG — 2026*
